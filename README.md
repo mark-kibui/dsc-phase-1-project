@@ -4,6 +4,10 @@
 
 Microsoft's new movie studio plans to produce films in genres that resonate with audiences, based on current box office trends. To inform decision-making, an analysis of the most recent movies will be done, focusing on the budget to produce the movies and the money they generate.
 
+## Data
+The data used was from [imdb]:https://www.imdb.com/
+
+
 ## Analysis
 
 The analysis of movies from 2018-2020 shows that the types of films that are currently doing the best at the box office are those that have a production budget of about $500,000,000. A big contributor to high returns is the international market, that insists marketing to be strategic. The second analysis looks at the genres that are more popular.
