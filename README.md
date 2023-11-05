@@ -5,7 +5,7 @@
 Microsoft's new movie studio plans to produce films in genres that resonate with audiences, based on current box office trends. To inform decision-making, an analysis of the most recent movies will be done, focusing on the budget to produce the movies and the money they generate.
 
 ## Data
-The data used was from [imdb]:https://www.imdb.com/
+The data used was from [imdb](https://www.imdb.com/)
 
 
 ## Analysis
